@@ -63,7 +63,7 @@ ul li {
 
 button:hover {
     transform: scale(1.05);
-    background-color: #432000;
+    /* background-color: #432000; */
     cursor: pointer;
 }
 
